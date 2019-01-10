@@ -1,0 +1,9 @@
+*.class
+*.drjava
+*.txt
+*.lock
+.idea
+out/
+target/
+*.iml
+*.log
