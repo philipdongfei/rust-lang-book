@@ -1,0 +1,9 @@
+[package]
+name = "art_philiptung"
+version = "0.1.0"
+authors = ["PhlipTung <philip.dongfei@gmail.com>"]
+edition = "2018"
+description = "A test lib"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
